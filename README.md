@@ -56,7 +56,7 @@ Liked songs page
  1. Clone the repository:
 
  ```bash
-  git clone https://github.com/adityayaduvanshi/Full-Stack-Music-Web-App.git
+  git clone https://github.com/VidurAgarwal25/Music-App.git
  ```
 2. Install dependencies:    
 ```bash
@@ -95,8 +95,7 @@ Please make sure to adhere to the existing code style and guidelines.
 
 ## Contact
 
-- Email: aditya.yadsr@gmail.com
-- Twitter: @fixslyr
+- Email: vidur025agarwal.@gmail.com
 
 
 
